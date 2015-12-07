@@ -1,0 +1,3 @@
+#Posts
+
+A post has text (<250 characters), comments, up/down votes and optionally a picture. Users specifies an expiration delay, which may be between one minute and one day, after which a post is deleted.
